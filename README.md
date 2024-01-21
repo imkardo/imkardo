@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337D2FF&size=24&width=600&lines=Welcome+To+Kardo+Heydari's++GitHub+Profile+.)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I’m currently working on WordPress Websites<br>🤝 I’m looking to collaborate on Website Projects<br>🌱 I’m currently learning JavaScript & PHP<br> 💬 Ask me about working on open source projects<br> 📫 Contact me on LinkedIn or Telegram<br>
+🔭 I’m currently working on WordPress Websites<br>🤝 I’m looking to collaborate on Website Projects<br>🌱 I’m currently learning JavaScript & PHP<br> 💬 Ask me about working on open source projects<br> 📫 Contact me on <a href="http://linkedin.com/in/kardo-heydari-9940ab275" title="Linkedin">Linkedin</a> or  <a href="https://t.me/rebelk7" title="Telegram">Telegram</a><br>
 
 
 # 💻 Tech Stack:

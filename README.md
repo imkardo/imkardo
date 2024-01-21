@@ -1,5 +1,5 @@
-Hi there 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%3471eb2&size=24&width=600&lines=Welcome+To+Kardo+Heydari's++GitHub+Profile)](https://git.io/typing-svg)
+# Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337FFE2&size=24&width=600&lines=Welcome+To+Kardo+Heydari's++GitHub+Profile)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 I’m currently working on WordPress Websites<br>🤝 I’m looking to collaborate on Website Projects<br>🌱 I’m currently learning JavaScript & PHP<br> 💬 Ask me about working on open source projects<br> 📫 Contact me on LinkedIn or Telegram<br>

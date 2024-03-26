@@ -28,20 +28,15 @@
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>jquery
-    </td>
-       
-
-            </td>
+          </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />
       <br>php
     </td>
-            </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
       <br>mysql
     </td>
-            </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="wordpress" />
       <br>wordpress

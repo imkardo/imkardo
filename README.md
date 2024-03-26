@@ -6,7 +6,7 @@
 
 
 # 💻 Tech Stack:
-<table>
+<table style="border-radius:7px;">
   <tr>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />

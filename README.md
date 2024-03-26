@@ -17,6 +17,10 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>css
     </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>bootstrap
+    </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js" />
       <br>js
@@ -26,10 +30,7 @@
       <br>jquery
     </td>
         </td>
-          <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>bootstrap
-    </td>
+
             </td>
           <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="php" />

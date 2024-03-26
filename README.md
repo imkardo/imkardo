@@ -29,7 +29,7 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
       <br>jquery
     </td>
-        </td>
+       
 
             </td>
           <td align="center" width="96">

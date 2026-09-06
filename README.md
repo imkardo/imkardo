@@ -8,15 +8,11 @@
 
 ### Software Engineering Student · Python Developer · AI/ML Engineer in Progress
 
-<p>
-  <i>Exploring Python, mathematics, and intelligent systems.</i>
-</p>
+<i>Exploring Python, mathematics, and intelligent systems.</i>
 
 </div>
 
 ---
-
-<div align="center">
 
 ## 🧠 Background
 
@@ -24,15 +20,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,laravel,wordpress,nodejs,mysql" height="45" />
 </p>
 
-<p>
-  <sub>Previously focused on web development and full-stack applications.</sub>
-</p>
-
-</div>
+> Previously focused on web development and full-stack applications.
 
 ---
-
-<div align="center">
 
 ## ⚡ Currently
 
@@ -40,16 +30,10 @@
   <img src="https://skillicons.dev/icons?i=python,git,linux,bash" height="45" />
 </p>
 
-<p>
-  <b>Python</b> · <b>Mathematics</b> · <b>Data Structures & Algorithms</b><br>
-  <b>Machine Learning</b> · <b>AI Engineering</b>
-</p>
-
-</div>
+**Python** · **Mathematics** · **Data Structures & Algorithms**
+**Machine Learning** · **AI Engineering**
 
 ---
-
-<div align="center">
 
 ## 📫 Connect With Me
 
@@ -63,10 +47,5 @@
   <a href="mailto:kardoheydari.1387@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Phone-0918****322-111111?style=for-the-badge&logo=phone&logoColor=white" />
 </p>
-
-</div>

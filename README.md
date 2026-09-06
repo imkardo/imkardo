@@ -2,15 +2,17 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337D2FF\&size=24\&width=600\&lines=Welcome+to+Kardo+Heydari's+GitHub+Profile)](https://git.io/typing-svg)
 
-### Kardo Heydari
+# Kardo Heydari
 
-**Software Engineering Student · Python Developer · Aspiring AI/ML Engineer**
+### Software Engineering Student · Python Developer · AI/ML Engineer in Progress
+
+*Currently focused on Python, mathematics, and the foundations of AI & Machine Learning.*
 
 </div>
 
 ---
 
-## 🧠 My Background
+## 🧠 Background
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
@@ -25,9 +27,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
 </p>
 
+*Previously focused on web development and full-stack applications.*
+
 ---
 
-## 🚀 What I'm Working On
+## ⚡ Currently
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
@@ -36,18 +40,30 @@
   <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" />
 </p>
 
-Currently focusing on:
+My current focus is building a solid foundation for AI and Machine Learning:
 
-* Python programming
-* Mathematics for AI & Machine Learning
+* Python Programming
+* Mathematics
 * Data Structures & Algorithms
 * Machine Learning
 * AI Engineering
 
 ---
 
-<div align="center">
+## 📫 Connect
 
-### Building → Learning → Improving
+<p>
+  <a href="YOUR_WEBSITE_URL">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-</div>
+**Phone:** `YOUR_PHONE_NUMBER`
+
+---

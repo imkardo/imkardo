@@ -1,69 +1,72 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2337D2FF\&size=24\&width=600\&lines=Welcome+to+Kardo+Heydari's+GitHub+Profile)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=37D2FF&center=true&vCenter=true&width=700&lines=Welcome+to+Kardo+Heydari's+GitHub;Python+%7C+AI+%7C+Machine+Learning;Building+and+Learning+Every+Day" alt="Typing SVG" />
+
+<br>
 
 # Kardo Heydari
 
 ### Software Engineering Student · Python Developer · AI/ML Engineer in Progress
 
-*Currently focused on Python, mathematics, and the foundations of AI & Machine Learning.*
+<p>
+  <i>Exploring Python, mathematics, and intelligent systems.</i>
+</p>
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 🧠 Background
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=php" height="45" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="45" alt="Laravel" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="45" alt="WordPress" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,php,laravel,wordpress,nodejs,mysql" height="45" />
 </p>
 
-*Previously focused on web development and full-stack applications.*
+<p>
+  <sub>Previously focused on web development and full-stack applications.</sub>
+</p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ⚡ Currently
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=python,git,linux,bash" height="45" />
 </p>
-
-My current focus is building a solid foundation for AI and Machine Learning:
-
-* Python Programming
-* Mathematics
-* Data Structures & Algorithms
-* Machine Learning
-* AI Engineering
-
----
-
-## 📫 Connect
 
 <p>
-  <a href="YOUR_WEBSITE_URL">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <b>Python</b> · <b>Mathematics</b> · <b>Data Structures & Algorithms</b><br>
+  <b>Machine Learning</b> · <b>AI Engineering</b>
+</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://kaardo.me">
+    <img src="https://img.shields.io/badge/Website-kaardo.me-111111?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/kardo-heydari-9940ab275/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kardo_Heydari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:kardoheydari.1387@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-**Phone:** `YOUR_PHONE_NUMBER`
+<p>
+  <img src="https://img.shields.io/badge/Phone-0918****322-111111?style=for-the-badge&logo=phone&logoColor=white" />
+</p>
 
----
+</div>
